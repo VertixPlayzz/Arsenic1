@@ -1,0 +1,8 @@
+discord.py
+commands
+aiohttp
+asyncio
+http3
+random
+Flask
+Thread
